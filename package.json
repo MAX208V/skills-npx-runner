@@ -1,0 +1,12 @@
+{
+  "name": "skills-npx-runner",
+  "version": "1.0.0",
+  "description": "Vercel npx 执行器 - 执行 npx skills add 命令并回调 skills-mcp",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^41.0.0"
+  }
+}
